@@ -11,14 +11,17 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=css,prisma,git,figma,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,reactjs,threejs,tailwind,)](https://skillicons.dev)
 
 </div>
 
 <h2 align="center">
   Programming Languages I Use:
 </h2>
+
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,solidity&perline=3)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,c,solidity&theme=dark&perline=5)](https://skillicons.dev)
+
 </div>
 
