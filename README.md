@@ -9,9 +9,19 @@
   Core Technologies I Use:
 </h2>
 
+<p align="center">
+<code><img height="75" src="https://skillicons.dev/icons?i=react"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://skillicons.dev/icons?i=nextjs"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://skillicons.dev/icons?i=threejs"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://skillicons.dev/icons?i=nodejs"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://skillicons.dev/icons?i=nodejs"></code> &nbsp;&nbsp;
+</p>
+
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)</div>
-<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=css,prisma,git,figma,tailwind)](https://skillicons.dev)
+
+</div>
 
 <h2 align="center">
   Programming Languages I Use:
