@@ -10,7 +10,7 @@
 </h2>
 
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,nodejs,java,python,c,,figma,vscode,gcp,docker &theme=dark &perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,nodejs,java,python,c,,figma,vscode,gcp,docker&theme=dark)](https://skillicons.dev)
 </div>
 <br/>
 
@@ -18,6 +18,6 @@
   Programming Languages I Use:
 </h2>
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,solidity &theme=light &perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,solidity&perline=3)](https://skillicons.dev)
 </div>
 
