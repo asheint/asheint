@@ -10,8 +10,7 @@
 </h2>
 
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,nodejs,java,python,c,,figma,vscode,gcp,docker&theme=dark)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)</div>
 <br/>
 
 <h2 align="center">
