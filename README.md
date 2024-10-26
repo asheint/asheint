@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Core Technologies](https://skillicons.dev/icons?i=nextjs,react,threejs,tailwind,gcp,figma,vscode,ps&theme=dark&perline=4)](https://skillicons.dev)
+[![Core Technologies](https://skillicons.dev/icons?i=nextjs,react,threejs,tailwind,gcp,figma,vscode,ps&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 <br/>
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![Programming Languages](https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,solidity&theme=dark&perline=4)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,solidity&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 <br/>
@@ -42,5 +42,8 @@
 </div>
 
 -->
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/asheint"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="asheint" /></a></p><br><br>
 
 
