@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Core Technologies](https://skillicons.dev/icons?i=nextjs,react,threejs,tailwind,gcp,figma,vscode,ps&theme=dark&perline=10)](https://skillicons.dev)
+[![Core Technologies](https://skillicons.dev/icons?i=git,aws,firebase,gcp,mongodb,mysql,react,nodejs,express,nextjs,tailwind,figma,vscode,visualstudio,wordpress,threejs,ps,ai&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 <br/>
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![Programming Languages](https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,solidity&theme=dark&perline=10)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,java,c,cpp,css,html,ts,rust,solidity&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 <br/>
